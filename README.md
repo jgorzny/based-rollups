@@ -8,4 +8,4 @@ The main data collection is done as follows
 `python3 process-tx.py`
 
 and then other checks (`checkdata` or `duplicates`) and generate charts.
-To avoid collecting data yourself, it's included in `data-*` directories. This prevents the need to get a premium RPC endpoint.
+To avoid collecting data yourself, it's included in `data-*` directories within `data.zip`. This prevents the need to get a premium RPC endpoint.
